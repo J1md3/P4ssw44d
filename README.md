@@ -35,7 +35,11 @@ The project utilizes smart word-combination techniques to come up with both uniq
    - argparse
   
 ## ✨ Usage: ✨
-
+- git clone https://github.com/J1md3/P4ssw44d.git
+- cd Passw44d
+- nano sheng_words.txt (here, you can paste in common used shenge or vernacular words for context sake )
+- nano breach_words.txt (you can paste in here wordlists of your liking ; ie rockyou.txt)
+  
   python3 passwaad.py -m 100000 -u https://napendaP4ssw44d.com -b mkenya daima january -o passwords.txt
 
 
